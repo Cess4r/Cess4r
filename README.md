@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/césar-montaña-03a348211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/césar-montaña-03a348211" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/c%c3%a9sar-monta%c3%b1a-03a348211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/c%c3%a9sar-monta%c3%b1a-03a348211/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
