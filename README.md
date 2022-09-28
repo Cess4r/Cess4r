@@ -24,8 +24,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images.hdqwalls.com/wallpapers/linux-programmer-pixel-art-4k-ld.jpg">
- ![](http://i.imgur.com/OUkLi.gif)
- 
+
 </div>
   
   ##
