@@ -31,14 +31,16 @@
  
 <div> 
 
-<h3 align="left" style="display:inline">Connect with me:</h3>
-<p align="left" style="display:inline">
+<div style="display:flex; flex-direction:row;">
+<img src="https://art.pixilart.com/7a5df971cdd44a9.gif" align="right" idth="90" height="95" style="display:flex">
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display:flex">
 <a href="https://linkedin.com/in/c%c3%a9sar-monta%c3%b1a-03a348211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c%c3%a9sar-monta%c3%b1a-03a348211" height="30" width="40" /></a>
 <a href="https://twitter.com/cess4r3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cess4r3" height="30" width="40" /></a>
 <a href="https://instagram.com//cess4r.ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/cess4r.ml/" height="30" width="40" /></a>
-<img src="https://art.pixilart.com/7a5df971cdd44a9.gif" align="right" idth="90" height="90" style="display:inline">
-</p>
 
+</p>
+</div>
 
 
  
