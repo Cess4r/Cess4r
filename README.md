@@ -32,7 +32,7 @@
 <div> 
 
 <div style="display:flex; flex-direction:row;">
-<img src="https://art.pixilart.com/7a5df971cdd44a9.gif" align="right" idth="90" height="95" style="display:flex">
+<img src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966" align="right" idth="90" height="95" style="display:flex">
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display:flex">
 <a href="https://linkedin.com/in/c%c3%a9sar-monta%c3%b1a-03a348211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c%c3%a9sar-monta%c3%b1a-03a348211" height="30" width="40" /></a>
