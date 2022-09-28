@@ -23,8 +23,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images.hdqwalls.com/wallpapers/linux-programmer-pixel-art-4k-ld.jpg">
-
+ 
 </div>
   
   ##
@@ -32,12 +31,16 @@
  
 <div> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left" style="display:inline">Connect with me:</h3>
+<p align="left" style="display:inline">
 <a href="https://linkedin.com/in/c%c3%a9sar-monta%c3%b1a-03a348211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c%c3%a9sar-monta%c3%b1a-03a348211" height="30" width="40" /></a>
 <a href="https://twitter.com/cess4r3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cess4r3" height="30" width="40" /></a>
 <a href="https://instagram.com//cess4r.ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/cess4r.ml/" height="30" width="40" /></a>
+<img src="https://art.pixilart.com/7a5df971cdd44a9.gif" align="right" idth="90" height="90" style="display:inline">
 </p>
+
+
+
  
   ![Snake animation](https://github.com/Cess4r/Cess4r/blob/output/github-contribution-grid-snake.svg)
  
