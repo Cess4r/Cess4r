@@ -26,6 +26,8 @@
  
 </div>
   
+  ![Snake animation](https://github.com/Cess4r/Cess4r/blob/output/github-contribution-grid-snake.svg)
+  
   ##
  
  
@@ -44,7 +46,6 @@
 
 
  
-  ![Snake animation](https://github.com/Cess4r/Cess4r/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
