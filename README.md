@@ -25,14 +25,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  
-</div>
-  
-  ![Snake animation](https://github.com/Cess4r/Cess4r/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
- 
- 
-<div> 
 
 <div style="display:flex; flex-direction:row;">
 <img src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966" align="right" idth="90" height="95" style="display:flex">
@@ -43,14 +35,6 @@
 <a href="https://instagram.com//cess4r.ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/cess4r.ml/" height="30" width="40" /></a>
 
 </p>
-</div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cess4r}/count.svg" /></p> 
-<br></div>
- 
- 
-</div>
 
 
