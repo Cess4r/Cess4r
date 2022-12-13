@@ -12,7 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cess4r&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<div align="center">  
+  
+  ![Snake animation](https://github.com/Cess4r/Cess4r/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
 
 
